@@ -10,5 +10,6 @@ You can give your profile page a more material design suitable for new style of 
 # Usage
 There are 3 layers in the SVG file:
 - "image" contains the image only (🙄)
-- "final view" contains the profile and photograph machine circle, to show you how it will look like in real profile.
-- "calculations" has colorful parts to better position the texts you add by them..
+- "pofile view" replicate the real profile page (user experience for everyone)
+- "feed view" replicate the real feed page (user experience for only author)
+- "calculation view" has colorful parts to better position the texts you add by them
