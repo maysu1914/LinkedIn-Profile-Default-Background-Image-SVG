@@ -7,43 +7,43 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
-   version="1.1"
-   id="svg8"
+   sodipodi:docname="LinkedIn Default Background Design.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="LinkedIn Default Background Design.svg">
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.13545347"
-     inkscape:cx="-695.36943"
-     inkscape:cy="-12.078136"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     showborder="false"
-     inkscape:snap-bbox="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:bbox-paths="true"
+     inkscape:snap-intersection-paths="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-intersection-paths="true" />
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1057"
+     inkscape:window-width="1920"
+     inkscape:snap-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox="true"
+     showborder="false"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer4"
+     inkscape:document-units="mm"
+     inkscape:cy="-12.078136"
+     inkscape:cx="-695.36943"
+     inkscape:zoom="0.13545347"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -57,45 +57,69 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="image"
-     inkscape:groupmode="layer"
+     style="display:inline"
      id="layer1"
-     style="display:inline">
+     inkscape:groupmode="layer"
+     inkscape:label="image">
     <rect
-       style="opacity:1;fill:#dbe7e9;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:fill markers stroke"
-       id="rect877"
-       width="2560"
-       height="1540"
+       y="-761.33844"
        x="-1545.767"
-       y="-761.33844" />
-    <rect
-       style="opacity:1;fill:#bfd4d6;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:fill markers stroke"
-       id="rect875"
-       width="892.00018"
        height="1540"
+       width="2560"
+       id="rect877"
+       style="opacity:1;fill:#dbe7e9;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:fill markers stroke" />
+    <rect
+       y="-761.33844"
        x="122.23286"
-       y="-761.33844" />
+       height="1540"
+       width="892.00018"
+       id="rect875"
+       style="opacity:1;fill:#bfd4d6;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:fill markers stroke" />
     <circle
-       style="fill:#a0b5b7;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:fill markers stroke"
-       id="path853"
-       cx="-775.76715"
+       r="770"
        cy="8.6615448"
-       r="770" />
+       cx="-775.76715"
+       id="path853"
+       style="fill:#a0b5b7;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:fill markers stroke" />
   </g>
   <g
-     inkscape:groupmode="layer"
+     style="display:inline"
+     inkscape:label="profile view"
      id="layer2"
-     inkscape:label="final view"
-     style="display:inline">
+     inkscape:groupmode="layer">
     <circle
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path885"
-       cx="658.73291"
+       r="41.5"
        cy="-143.83846"
-       r="41.5" />
+       cx="658.73291"
+       id="path885"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" />
+    <rect
+       inkscape:export-ydpi="25.4"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-filename="C:\Users\mAysu\Desktop\Projects\Profile\Background mavi 2.png"
+       ry="0"
+       rx="0"
+       y="-252.33846"
+       x="-1290.7671"
+       height="522"
+       width="2058"
+       id="rect870-8"
+       style="display:inline;opacity:0.991525;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" />
+    <circle
+       r="196.5"
+       cy="208.70285"
+       cx="-1022.267"
+       id="path879"
+       style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" />
+  </g>
+  <g
+     style="display:none;opacity:1"
+     inkscape:label="feed view"
+     id="layer4"
+     inkscape:groupmode="layer">
     <rect
        style="display:inline;opacity:0.991525;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect870-8"
+       id="rect849"
        width="2058"
        height="522"
        x="-1290.7671"
@@ -106,49 +130,49 @@
        inkscape:export-xdpi="25.4"
        inkscape:export-ydpi="25.4" />
     <circle
-       style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="path879"
-       cx="-1022.267"
-       cy="208.70285"
-       r="196.5" />
+       r="336.5"
+       cy="246.16154"
+       cx="-261.76709"
+       id="path846"
+       style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer3"
+     style="display:none;opacity:1"
      inkscape:label="calculation view"
-     style="display:none;opacity:1">
+     id="layer3"
+     inkscape:groupmode="layer">
     <rect
-       style="display:inline;opacity:0.15;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:fill markers stroke"
-       id="rect869"
-       width="2048"
-       height="512"
-       x="-1285.7671"
-       y="-247.33846"
-       rx="0"
-       ry="0"
-       inkscape:export-filename="C:\Users\mAysu\Desktop\Projects\Profile\Background mavi 2.png"
+       inkscape:export-ydpi="25.4"
        inkscape:export-xdpi="25.4"
-       inkscape:export-ydpi="25.4" />
-    <rect
-       style="display:inline;opacity:0.25;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:9.99996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect909"
-       width="1280"
-       height="512"
+       inkscape:export-filename="C:\Users\mAysu\Desktop\Projects\Profile\Background mavi 2.png"
+       ry="0"
+       rx="0"
+       y="-247.33846"
        x="-1285.7671"
-       y="-247.33846" />
-    <rect
-       y="-247.33847"
-       x="-820.76703"
        height="512"
-       width="814.99988"
+       width="2048"
+       id="rect869"
+       style="display:inline;opacity:0.15;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:fill markers stroke" />
+    <rect
+       y="-247.33846"
+       x="-1285.7671"
+       height="512"
+       width="1280"
+       id="rect909"
+       style="display:inline;opacity:0.25;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:9.99996;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" />
+    <rect
+       style="display:inline;opacity:0.25;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
        id="rect911"
-       style="display:inline;opacity:0.25;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" />
-    <rect
-       style="opacity:0.279661;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect896"
-       width="640.00006"
+       width="814.99988"
        height="512"
+       x="-820.76703"
+       y="-247.33847" />
+    <rect
+       y="-247.33846"
        x="122.23286"
-       y="-247.33846" />
+       height="512"
+       width="640.00006"
+       id="rect896"
+       style="opacity:0.279661;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke" />
   </g>
 </svg>
